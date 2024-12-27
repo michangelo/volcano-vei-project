@@ -2,7 +2,7 @@
 
 **Michael Cox | Texas A&M University | October 12, 2022**
 
-![maunaKeaPhoto.JPG](data\\maunaKeaPhoto.JPG)
+![maunaKeaPhoto.JPG](data/maunaKeaPhoto.JPG)
 Mauna Kea, Hawaii, 2013
 
 - [Data Sources](#data-sources)
