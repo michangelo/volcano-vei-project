@@ -5,9 +5,8 @@
 ![maunaKea](data\\maunaKeaPhoto.JPG)
 Mauna Kea, Hawaii, 2013
 
-  - [Data Sources:](#data-sources)
-  - [Experimental Design and Analysis](#experimental-design-and-analysis)
-
+- [Data Sources](#data-sources)
+- [Experimental Design and Analysis](#experimental-design-and-analysis)
 
 ## Abstract
 
